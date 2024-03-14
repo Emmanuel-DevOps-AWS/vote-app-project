@@ -12,7 +12,7 @@ The purpose of this is to see how an application connects to a database. We will
 
 ### Clone repo into your server
 ```sh
-git clone https://github.com/xashy-devops/votingapp.git
+git clone https://github.com/Emmanuel-DevOps-AWS/vote-app-project.git
 ```
 
 ### Change to the repo folder
